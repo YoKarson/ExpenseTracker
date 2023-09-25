@@ -1,3 +1,30 @@
-p {
-  color: blue;
+.top-section{
+  display: flex;
+
+  height: 100px;
+  width: 100vw;
+
+  background-color: black;
+}
+
+#login-title{
+  margin: 25px;
+  color: white;
+}
+
+#login-text{
+  margin: 25px;
+  color: white;
+}
+
+#login-btn{
+  display: inline;
+}
+
+
+.side-bar{
+  width: 300px;
+  height: 100vw;
+
+  background-color: rgb(37, 35, 43)
 }
